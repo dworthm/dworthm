@@ -1,5 +1,5 @@
 # Hello!
-## Welcome to my GitHub Profile! I'm a full stack developer based in New England
+### Welcome to my GitHub Profile! I'm a full stack developer based in New England
 ## Tech Stack
 ### Languages
 
@@ -12,7 +12,7 @@
 ### Front-end
 
 <p>
-   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+   <img alt="React" src="https://camo.githubusercontent.com/69b5bb56a79bd7f32a5ae1480b98f6e3894bfc213ea9175c5654041ee700f77c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742532302d2532333230323332612e7376673f267374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" />
    <img alt="Reactrouter" src="https://camo.githubusercontent.com/4f9d20f3a284d2f6634282f61f82a62e99ee9906537dc9859decfdc9efbb51ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f526f757465722d4341343234353f7374796c653d666f722d7468652d6261646765266c6f676f3d72656163742d726f75746572266c6f676f436f6c6f723d7768697465" />
    <img alt="redux" src="https://img.shields.io/badge/redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
    <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white&style=for-the-badge" />
