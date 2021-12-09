@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello!
+## Welcome to my GitHub Profile! I'm a full stack developer based in New England
+## Tech Stack
+# Languages
+
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+</p>
+
 
 <!--
 **dworthm/dworthm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
