@@ -1,5 +1,5 @@
 # Hello!
-### Welcome to my GitHub Profile! I'm a full stack developer based in New England
+### Welcome to my GitHub Profile! I'm a full stack developer based in New England.
 ## Tech Stack
 ### Languages
 
