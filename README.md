@@ -1,5 +1,5 @@
 # Hello!
-### Welcome to my GitHub Profile! I'm a full stack developer based in Vermont.
+### Welcome to my GitHub Profile! I'm a full stack developer based in Lafayette, Colorado.
 ## Tech Stack
 ### Languages
 
